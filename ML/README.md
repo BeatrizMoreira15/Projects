@@ -7,6 +7,6 @@ This repository contains an academic project developed as part of the study on d
 ### **Project: Urban Sound Classification using Deep Learning**  
 Development of deep learning classifiers for classifying sound excerpts using the UrbanSound8k dataset.  
 
-- Implementation of data processing, exploratory data analysis, and feature extraction techniques (MFCCs).  
-- Training and evaluation of deep learning models for sound classification.  
-- Comparison of different architectures, including CNNs and RNNs.  
+- Data preprocessing and feature extraction. 
+- Implementation of deep learning models, including Multi-Layer Perceptron (MLP) and Convolutional Neural Networks (CNN).  
+- Training, evaluation, and performance comparison of MLP and CNN architectures for sound classification. 
